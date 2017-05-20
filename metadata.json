@@ -1,0 +1,15 @@
+{
+  "name": "tmarathe-tree",
+  "version": "0.1.0",
+  "author": "Tejas Marathe (tejas.marathe@me.com)",
+  "summary": "This module displays directory structure in tree form.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/tm0338/puppet-tree",
+  "project_page": "https://github.com/tm0338/puppet-tree",
+  "issues_url": "https://github.com/tm0338/puppet-tree/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
